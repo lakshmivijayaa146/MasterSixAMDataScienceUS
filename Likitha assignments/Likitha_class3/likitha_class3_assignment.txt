@@ -19,6 +19,7 @@ The Python Virtual Machine (PVM) then interprets and executes the bytecode.
 Short interview answer:
 
 Python first compiles code into bytecode and then interprets it using the Python Virtual Machine.
+
 3.
 Python is dynamically typed, so a variable can change its type during execution.
 
